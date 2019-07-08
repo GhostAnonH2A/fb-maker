@@ -1,1 +1,1 @@
-# fb-maker
+buka baca.py :)
